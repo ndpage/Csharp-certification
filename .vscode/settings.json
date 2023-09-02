@@ -1,0 +1,4 @@
+{
+  "dotnet.defaultSolution": "csharp_cert.sln",
+  "cmake.configureOnOpen": false
+}
